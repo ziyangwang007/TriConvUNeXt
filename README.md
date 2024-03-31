@@ -1,4 +1,4 @@
-# InceptionUNeXt
+# TriConvUNeXt
 Crafting a Lightweight and Robust Symmetrical Network for Enhanced Biomedical Image Segmentation.
 
 
