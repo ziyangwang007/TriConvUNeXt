@@ -26,8 +26,8 @@ We also provide evaluation metrics including Dice-Coefficient, IoU, Accuracy, Pr
 
 1. Clone the repo:
 ```
-git clone https://github.com/ziyangwang007/inceptionunext.git
-cd inceptionunext
+git clone https://github.com/ziyangwang007/TriConvUNeXt.git
+cd TriConvUNeXt
 ```
 
 2. Train the model
@@ -43,4 +43,4 @@ python val.py
 
 ## Reference
 
-TBC
+Chao Ma, Yuan Gu, Ziyang Wang. "TriConvUNeXt: A Pure CNN-based Lightweight Symmetrical Network for Biomedical Image Segmentation." Journal of Imaging Informatics in Medicine (2024).
