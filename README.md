@@ -19,7 +19,7 @@ We use the Glas dataset originating from Gland Segmentation in Colon Histology I
 ## Models
 We provide many baseline methods as well including UNet, AttentionUNet, LinkNet, ConvUNext, TransUNet, SwinUNet, and UnetLite, which you can be found in '/nn' folder.
 
-We also provide evaluation metrics including Dice-Coefficient, IoU, Accuracy, Precision, Sensitivity, and Specificity, which you can be found in 'metrics,py' file.
+We also provide evaluation metrics including Dice-Coefficient, IoU, Accuracy, Precision, Sensitivity, and Specificity, which you can be found in 'metrics.py' file.
 
 
 ## Usage
